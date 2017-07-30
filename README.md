@@ -19,3 +19,10 @@
 4) graphql-go
 5) see mysql data in the chat extension webview
 6) actually make the app
+
+## Backlog
+1. Create a gin server to take fb callbacks
+   1. Create the fb app and page
+   2. Create the gin server and complete the oauth flow
+   3. Connect the page to the bot and be able to see that we can send/receive messages
+   
